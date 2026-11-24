@@ -8,7 +8,7 @@ import requests
 import plotly.express as px
 import pandas as pd
 
-from src.ui.demo import (
+from demo import (
     DEMO_RECEIPTS,
     demo_analytics,
     demo_category_totals,
