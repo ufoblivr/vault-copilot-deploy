@@ -1,0 +1,12 @@
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+logs/
+*.db
+*.db-shm
+*.db-wal
+chroma_db/
+raw_receipts/
